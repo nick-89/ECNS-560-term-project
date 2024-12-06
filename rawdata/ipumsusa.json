@@ -1,0 +1,93 @@
+{
+    "description": "My extract for project",
+    "dataStructure": {
+        "rectangular": {
+            "on": "P"
+        }
+    },
+    "dataFormat": "fixed_width",
+    "sampleMembers": {
+        "includeNonRespondents": false,
+        "includeHouseholdMembers": false
+    },
+    "samples": {
+        "us2006a": {
+
+        },
+        "us2011a": {
+
+        },
+        "us2016a": {
+
+        },
+        "us2021a": {
+
+        }
+    },
+    "variables": {
+        "YEAR": {
+
+        },
+        "CPI99": {
+
+        },
+        "OWNERSHIP": {
+
+        },
+        "RENT": {
+
+        },
+        "RENTGRS": {
+
+        },
+        "HHINCOME": {
+
+        },
+        "VALUEH": {
+
+        },
+        "NFAMS": {
+
+        },
+        "FAMSIZE": {
+
+        },
+        "SEX": {
+
+        },
+        "AGE": {
+
+        },
+        "RACE": {
+
+        },
+        "CITIZEN": {
+
+        },
+        "EDUC": {
+
+        },
+        "EMPSTAT": {
+
+        },
+        "CLASSWKR": {
+
+        },
+        "OCC": {
+
+        },
+        "INCTOT": {
+
+        },
+        "INCWAGE": {
+
+        },
+        "MIGRATE1": {
+
+        }
+    },
+    "caseSelectWho": "individuals",
+    "collection": "usa",
+    "version": 2
+}
+
